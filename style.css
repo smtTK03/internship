@@ -1,0 +1,26 @@
+body{
+  background-color: rgb(61, 52, 52);
+  
+}
+p{
+ left: 30%;
+}
+#reset-button-div{
+  height:100px;
+  position: relative;
+  
+}
+#choice-button-div{
+  display: inline-block;
+  width: fit-content;
+  position: absolute;
+  left: 40%;
+}
+
+
+#reset-button{
+  position:absolute;
+  color:rebeccapurple;
+  bottom: 0px;
+  left: 46%;
+}
